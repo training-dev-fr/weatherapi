@@ -50,7 +50,7 @@ En local elle sera accessible via l'url http://localhost/3000
 #### Récupérer la météo d'une ville :
 
 - méthode: GET
-- url: /api/weather/<Ville>
+- url: /api/weather/:Ville
 
 Format de données de retour (json):
 
